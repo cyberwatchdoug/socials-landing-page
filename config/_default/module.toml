@@ -1,0 +1,6 @@
+[imports]
+    path = "github.com/jpanther/lynx"
+
+[hugoVersion]
+    extended = false
+    min = "0.86.1"
